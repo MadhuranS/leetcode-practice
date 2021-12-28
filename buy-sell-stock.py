@@ -1,3 +1,4 @@
+#Saw this in flipp interview
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         buy = 10**4 + 1
